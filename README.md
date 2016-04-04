@@ -1,7 +1,5 @@
 Code in python 3.5
 
-#!/usr/bin/env python3
-
 Import modules:
 
 import json
